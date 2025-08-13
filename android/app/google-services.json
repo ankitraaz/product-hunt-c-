@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123580581478",
+    "project_id": "product-hunt-20326",
+    "storage_bucket": "product-hunt-20326.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123580581478:android:4f250675759c0d06568fa7",
+        "android_client_info": {
+          "package_name": "com.example.product_hunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtz9cBiug6LhtRNGbdMDF-wC8jv_MAis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
