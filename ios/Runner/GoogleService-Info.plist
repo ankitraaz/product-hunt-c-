@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyBYnsfNyHlM0RNiq3MUEpKvow7Cwti9AgA</string>
+	<string>AIzaSyAEI5a_B3iHmcwQrRPCVsgilHrerpzkQ04</string>
 	<key>GCM_SENDER_ID</key>
-	<string>123580581478</string>
+	<string>382543890178</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.productHunt</string>
 	<key>PROJECT_ID</key>
-	<string>product-hunt-20326</string>
+	<string>project-1-31624</string>
 	<key>STORAGE_BUCKET</key>
-	<string>product-hunt-20326.firebasestorage.app</string>
+	<string>project-1-31624.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:123580581478:ios:acd313f77eec19b0568fa7</string>
+	<string>1:382543890178:ios:5afaf0ed18ed394007e41b</string>
 </dict>
 </plist>

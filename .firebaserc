@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "firebase init hosting": "project-1-31624",
+    "npm install -g firebase-tools": "project-1-31624",
+    "default": "project-1-31624"
+  },
+  "targets": {},
+  "etags": {}
+}

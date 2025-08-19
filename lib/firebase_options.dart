@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDUA53MdLv1rvrQ_51f59kyir1oSuMcXlI',
-    appId: '1:123580581478:web:d8da7ffd4ad2085d568fa7',
-    messagingSenderId: '123580581478',
-    projectId: 'product-hunt-20326',
-    authDomain: 'product-hunt-20326.firebaseapp.com',
-    storageBucket: 'product-hunt-20326.firebasestorage.app',
-    measurementId: 'G-MZ89D14RM8',
+    apiKey: 'AIzaSyAf7LJIyzGgIBod1rRtuxwHr7CEBNUiBSE',
+    appId: '1:382543890178:web:d77d2d14cc3503df07e41b',
+    messagingSenderId: '382543890178',
+    projectId: 'project-1-31624',
+    authDomain: 'project-1-31624.firebaseapp.com',
+    storageBucket: 'project-1-31624.firebasestorage.app',
+    measurementId: 'G-8LZFS9KHEF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDwtz9cBiug6LhtRNGbdMDF-wC8jv_MAis',
-    appId: '1:123580581478:android:4f250675759c0d06568fa7',
-    messagingSenderId: '123580581478',
-    projectId: 'product-hunt-20326',
-    storageBucket: 'product-hunt-20326.firebasestorage.app',
+    apiKey: 'AIzaSyCDwUQf9QH-B8dagNyAiI8hlV4sLj5Upt8',
+    appId: '1:382543890178:android:b096578bc962b8bc07e41b',
+    messagingSenderId: '382543890178',
+    projectId: 'project-1-31624',
+    storageBucket: 'project-1-31624.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBYnsfNyHlM0RNiq3MUEpKvow7Cwti9AgA',
-    appId: '1:123580581478:ios:acd313f77eec19b0568fa7',
-    messagingSenderId: '123580581478',
-    projectId: 'product-hunt-20326',
-    storageBucket: 'product-hunt-20326.firebasestorage.app',
+    apiKey: 'AIzaSyAEI5a_B3iHmcwQrRPCVsgilHrerpzkQ04',
+    appId: '1:382543890178:ios:5afaf0ed18ed394007e41b',
+    messagingSenderId: '382543890178',
+    projectId: 'project-1-31624',
+    storageBucket: 'project-1-31624.firebasestorage.app',
     iosBundleId: 'com.example.productHunt',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBYnsfNyHlM0RNiq3MUEpKvow7Cwti9AgA',
-    appId: '1:123580581478:ios:acd313f77eec19b0568fa7',
-    messagingSenderId: '123580581478',
-    projectId: 'product-hunt-20326',
-    storageBucket: 'product-hunt-20326.firebasestorage.app',
+    apiKey: 'AIzaSyAEI5a_B3iHmcwQrRPCVsgilHrerpzkQ04',
+    appId: '1:382543890178:ios:5afaf0ed18ed394007e41b',
+    messagingSenderId: '382543890178',
+    projectId: 'project-1-31624',
+    storageBucket: 'project-1-31624.firebasestorage.app',
     iosBundleId: 'com.example.productHunt',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDUA53MdLv1rvrQ_51f59kyir1oSuMcXlI',
-    appId: '1:123580581478:web:26fd24b5076c169a568fa7',
-    messagingSenderId: '123580581478',
-    projectId: 'product-hunt-20326',
-    authDomain: 'product-hunt-20326.firebaseapp.com',
-    storageBucket: 'product-hunt-20326.firebasestorage.app',
-    measurementId: 'G-LNJZ90CNMH',
+    apiKey: 'AIzaSyAf7LJIyzGgIBod1rRtuxwHr7CEBNUiBSE',
+    appId: '1:382543890178:web:68b628084b5a292e07e41b',
+    messagingSenderId: '382543890178',
+    projectId: 'project-1-31624',
+    authDomain: 'project-1-31624.firebaseapp.com',
+    storageBucket: 'project-1-31624.firebasestorage.app',
+    measurementId: 'G-TQSV9TX0JN',
   );
 }

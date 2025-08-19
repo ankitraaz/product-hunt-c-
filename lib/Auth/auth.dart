@@ -4,10 +4,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:product_hunt/Pages/homepage.dart';
 
-// Import your HomePage here
-// Example:
-// import 'home_page.dart';
-
 final _firebase = FirebaseAuth.instance;
 
 class AuthScreen extends StatefulWidget {
@@ -92,7 +88,7 @@ class _AuthScreenState extends State<AuthScreen> {
               Container(
                 margin: const EdgeInsets.only(top: 30, bottom: 20),
                 width: 200,
-                child: Image.asset("assets/images/chat.png"),
+                child: Image.asset("assets/images/Welcoming.png"),
               ),
 
               Card(
